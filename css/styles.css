@@ -1,0 +1,98 @@
+/* TAG CELECTOR */
+h1 {
+  color: lightcoral;
+  font-size: 50px;
+}
+/* CLASS CELECTOR */
+.pingving {
+  background-color: lightcoral;
+  height: 400px;
+}
+.pingving:hover{
+  background-color: lightgreen;
+  border-radius: 100% ;
+  height: 300px;
+}
+.grapefruit {
+  background-color: lightgreen;
+  height: 300px;
+}
+.radius{
+  border-radius: 100%;
+}
+.paragraph1:hover{
+  color: crimson;
+  font-size: 30px;
+}
+.paragraph2:hover{
+  color: gold;
+  font-size: 30px;
+}
+.paragraph3:hover{
+  color: greenyellow;
+  font-size: 20px;
+}
+.paragraph4:hover{
+  color: crimson;
+  font-size: 30px;
+}
+.paragraph5:hover{
+  color: gold;
+  font-size: 20px;
+}
+.paragraph6:hover{
+  color: greenyellow;
+  font-size: 30px;
+}
+.paragraph7:hover{
+  color: crimson;
+  font-size: 20px;
+}
+.paragraph8:hover{
+  color: gold;
+  font-size: 30px;
+}
+.paragraph9:hover{
+  color: greenyellow;
+  font-size: 30px;
+}
+/* ID CELECTOR */
+#p1:hover{
+  color: aquamarine;
+font-size: 20px;
+}
+#p2:hover{
+  color: violet;
+font-size: 30px;
+}
+#p3:hover{
+  color: blue;
+font-size: 20px;
+}
+#p4:hover{
+  color:aquamarine ;
+font-size: 30px;
+}
+#p5:hover{
+  color: violet;
+font-size: 20px;
+}
+#p6:hover{
+  color: blue;
+font-size: 30px;
+}
+#p7:hover{
+  color: aquamarine;
+font-size: 20px;
+}
+#p8:hover{
+  color: violet;
+font-size: 30px;
+}
+#p9:hover{
+  color: blue;
+font-size: 20px;
+}
+#body1:hover{
+  color: aquamarine;
+}
